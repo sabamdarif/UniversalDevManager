@@ -81,32 +81,10 @@ python main.py --elevate
 
 ## 🖥️ GUI Overview
 
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│  ⚡ Universal Dev Environment Manager               Windows • Admin    │
-├──────────────────────────────────────────────────────────────────────────┤
-│  🔍 Search…                                 Category: [All         ▾]  │
-│                                                          3 selected    │
-├──────────────────────────────────────────────────────────────────────────┤
-│  ☐  Python            General-purpose programming language   Languages │
-│  ☐  GCC               GNU C compiler                        Compilers │
-│  ☐  Java (OpenJDK)    JDK for Java development               Languages│
-│  ☐  Node.js           JavaScript runtime built on V8         Languages │
-│  ☐  Rust              Systems programming language           Languages │
-│  ☐  Go                Compiled language by Google             Languages│
-│  …  (scrollable)                                                       │
-├──────────────────────────────────────────────────────────────────────────┤
-│  [⚡ Install Selected]  [☑ Select All]  [☐ Clear]  [↻ Refresh]  [✕]   │
-├──────────────────────────────────────────────────────────────────────────┤
-│  Node.js · Installing…              ▓▓▓▓▓▓▓▓░░░░░░░░░░░  45%         │
-├──────────────────────────────────────────────────────────────────────────┤
-│  > ── Python (1/3) ──                                                  │
-│  > ✓ Python is already installed. Skipping.                            │
-│  > ── Node.js (2/3) ──                                                 │
-│  > Installing Node.js…                                                 │
-│  > Running: winget install --id OpenJS.NodeJS.LTS …                    │
-└──────────────────────────────────────────────────────────────────────────┘
-```
+
+<img width="1196" height="894" alt="Screenshot 2026-04-18 020331" src="https://github.com/user-attachments/assets/20ecba40-5e96-4d34-b076-82f197f5303c" />
+
+
 
 ---
 
